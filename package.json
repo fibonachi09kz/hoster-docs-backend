@@ -1,0 +1,30 @@
+{
+  "name": "hoster-docs-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Hoster Brains Backend",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/strapi": "4.7.1",
+    "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/plugin-i18n": "4.7.1",
+    "better-sqlite3": "8.0.1"
+  },
+  "author": {
+    "name": "Aleksin Danila Sergeevich"
+  },
+  "strapi": {
+    "uuid": "7d63e0ee-d506-472f-8c0e-6b917e6544e5"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
