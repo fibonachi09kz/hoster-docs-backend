@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhoster_docs_backend=self.webpackChunkhoster_docs_backend||[]).push([[4299],{9683:(a,t,e)=>{e.r(t),e.d(t,{default:()=>P});var s=e(67294),_=e(95489),o=e.n(_),n=e(87751),E=e(24583);const P=()=>s.createElement(_.CheckPagePermissions,{permissions:n.Z.settings["api-tokens"].create},s.createElement(E.Z,null))}}]);

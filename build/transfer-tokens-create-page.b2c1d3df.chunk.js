@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhoster_docs_backend=self.webpackChunkhoster_docs_backend||[]).push([[4816],{39987:(a,s,e)=>{e.r(s),e.d(s,{default:()=>r});var t=e(67294),n=e(95489),P=e.n(n),_=e(87751),E=e(53219);const r=()=>t.createElement(n.CheckPagePermissions,{permissions:_.Z.settings["transfer-tokens"].create},t.createElement(E.Z,null))}}]);
